@@ -131,7 +131,7 @@ Python's pickle module IS deterministic ✅
 All tests passed, demonstrating that the same input consistently produces the same output across different conditions and protocols.
 
 Author:
-Yassir CampusFr Creator
+Yassir & Hatim
 
 Date:
 June 2026
